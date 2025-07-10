@@ -1,1 +1,1 @@
-Xkk
+["admin", "neverlose", "testuser"]
